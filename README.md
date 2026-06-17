@@ -1,4 +1,4 @@
-# 22AuthProject - Task Management System
+# Task Management System
 
 A modern, role-based task management application built with React and Tailwind CSS. Features a professional dark theme, responsive design, and complete authentication system with employee and admin dashboards.
 
