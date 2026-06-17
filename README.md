@@ -164,8 +164,8 @@ npm run build
 Login
 1. Open the application in your browser
 2. Enter credentials:
-   - Email: admin@example.com (Admin role)
-   - Email: employee@example.com (Employee role)
+   - Email: admin@e.com (Admin role)
+   - Email: e@e.com (Employee role)
 3. Click "Sign In"
 4. Wait for authentication (loading spinner shows)
 
