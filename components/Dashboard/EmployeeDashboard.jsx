@@ -14,7 +14,6 @@ const EmployeeDashboard = () => {
     const employee = employees.find(
         emp => emp.id === Number(user.id)
     );
-    console.log(employees);
     
   return (
     <div className='min-h-screen px-4 md:px-8 py-8 flex flex-col gap-8 font-mono bg-linear-to-br from-cyan-400/15 via-blue-500/10 to-purple-500/35 '>

@@ -16,7 +16,6 @@ const Login = () => {
         
         await new Promise(resolve => setTimeout(resolve, 800));
         const loggedInUser = HandleLogin(email, password); // return object if user is Admin / Employee
-        console.log(loggedInUser);
         setUser(loggedInUser);
 
         localStorage.setItem("loggedInUser" , JSON.stringify(loggedInUser));

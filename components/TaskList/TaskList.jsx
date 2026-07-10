@@ -1,7 +1,6 @@
 import React from 'react'
 
 const TaskList = (prop) => {
-    console.log(prop);
   return (
     <div className='space-y-4 p-4 font-mono'>
         {prop.user.tasks.length === 0 ? (
